@@ -17,7 +17,7 @@ This repo is the Roku counterpart to [`shop-schedule`](https://github.com/i-mach
 | Foreman's Report intake (Gmail poll, SMB/web drop) | [`update_schedule.py`](https://github.com/i-machine-things/shop-schedule/blob/master/update_schedule.py), [`process_drop.py`](https://github.com/i-machine-things/shop-schedule/blob/master/process_drop.py) | Not started |
 | PDF parsing and work-centre grouping | [`update_schedule.py`](https://github.com/i-machine-things/shop-schedule/blob/master/update_schedule.py) | Not started |
 | Work-centre sidebar filter | [README: Work center filter](https://github.com/i-machine-things/shop-schedule#work-center-filter) | Not started |
-| Auto-scroll schedule and overdue highlighting | [README: Display](https://github.com/i-machine-things/shop-schedule#display), [`public/kiosk.html`](https://github.com/i-machine-things/shop-schedule/blob/master/public/kiosk.html) | Not started |
+| Auto-scroll schedule and overdue highlighting | [README: Display](https://github.com/i-machine-things/shop-schedule#display) | Not started |
 | Page rotation between display pages | [README: Page rotation](https://github.com/i-machine-things/shop-schedule#page-rotation), [`pages.json.example`](https://github.com/i-machine-things/shop-schedule/blob/master/pages.json.example) | Not started |
 
 When porting a behaviour, link the matching `shop-schedule` file or README section in the PR description. If the source changes its report format or config keys, update the table above and the port together.
